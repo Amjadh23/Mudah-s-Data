@@ -32,4 +32,4 @@ We focused on retrieving the following details:
 📌 **Stay tuned for updates!** 💡  
 
 Alternatively, our colab notebook can be accessed as well for the full code :
-https://colab.research.google.com/drive/18AbP93CX6xS9SKskwKpeVPQ6Q68nCzpC?usp=sharing
+https://colab.research.google.com/drive/1bw0dhszCPvfbbZb53KwHPlTs_PM0q2n7?usp=sharing
