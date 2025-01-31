@@ -17,7 +17,7 @@ We focused on retrieving the following details:
 ✅ **Seats** 🪑  
 
 ## 👥 Team Members & Responsibilities  
-🔹**MUHAMMAD NUR AMJADH BIN ASABDEEN (A199991)** – **Model** & **Variant**  
+⚡**MUHAMMAD NUR AMJADH BIN ASABDEEN (A199991)** – **Model** & **Variant**  
 🛠️ **MUHAMMAD AIZAT HAMIZAN BIN ZAILANI (A194473)** – **Condition** & **State**  
 💰 **MUHAMMAD SYAZWAN HARIRI BIN MUHAMAD SOPIAN (A195696)** – **Name** & **Price**  
 ⛽ **AHMAD HASIF BIN AHMAD FAIZ (A196334)** – **Fuel Type** & **Seats**  
