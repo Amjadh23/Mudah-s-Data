@@ -1,7 +1,3 @@
-Here's your README with emojis to make it more engaging:  
-
----
-
 # 🚗 Mudah.my Vehicle Data Scraper 🛠️  
 
 This repository contains a Python project designed to scrape vehicle data from **[Mudah.my](https://www.mudah.my/)**, Malaysia’s leading marketplace! 🇲🇾  
