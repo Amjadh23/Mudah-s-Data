@@ -1,21 +1,39 @@
-The python code inside of this repository is used to scrape vehicles data from Mudah.my 
-Mudah.my is Malaysia's leading marketplace that offers a free and convenient platform for people to buy and sell new and preloved goods just with a simple post of an ad.
+Here's your README with emojis to make it more engaging:  
 
-This project was done by our team members for TTTC3213 KEJURUTERAAN DATA. 
+---
 
-Each members were assigned to retrieve 2 attributes from Mudah.my which are :
-- Model
-- Variant
-- Condition
-- State
-- Name
-- Price
-- Fuel Type
-- Seats
+# 🚗 Mudah.my Vehicle Data Scraper 🛠️  
 
-Our team consists of four members, and we have evenly delegated the attributes as follows:
+This repository contains a Python project designed to scrape vehicle data from **[Mudah.my](https://www.mudah.my/)**, Malaysia’s leading marketplace! 🇲🇾  
 
-1. MUHAMMAD NUR AMJADH BIN ASABDEEN (A199991) - Model & Variant
-2. MUHAMMAD AIZAT HAMIZAN BIN ZAILANI (A194473) - Condition & State
-3. MUHAMMAD SYAZWAN HARIRI BIN MUHAMAD SOPIAN (A195696) - Name & Price
-4. AHMAD HASIF BIN AHMAD FAIZ (A196334) - Fuel Type & Seats
+## 📌 Project Overview  
+Our team developed this scraper as part of **TTTC3213 KEJURUTERAAN DATA**. Each member was responsible for extracting two key attributes from vehicle listings on Mudah.my.  
+
+## 📊 Extracted Attributes  
+We focused on retrieving the following details:  
+✅ **Model** 🚙  
+✅ **Variant** 🎨  
+✅ **Condition** 🔍  
+✅ **State** 🏙️  
+✅ **Name** 🏷️  
+✅ **Price** 💰  
+✅ **Fuel Type** ⛽  
+✅ **Seats** 🪑  
+
+## 👥 Team Members & Responsibilities  
+👑 **MUHAMMAD NUR AMJADH BIN ASABDEEN (A199991)** – **Model** & **Variant**  
+🛠️ **MUHAMMAD AIZAT HAMIZAN BIN ZAILANI (A194473)** – **Condition** & **State**  
+💰 **MUHAMMAD SYAZWAN HARIRI BIN MUHAMAD SOPIAN (A195696)** – **Name** & **Price**  
+⛽ **AHMAD HASIF BIN AHMAD FAIZ (A196334)** – **Fuel Type** & **Seats**  
+
+## 🚀 How It Works  
+1️⃣ Scrapes vehicle data from Mudah.my  
+2️⃣ Extracts assigned attributes for each team member  
+3️⃣ Saves the data for further analysis  
+
+🎯 This project helps in understanding web scraping techniques and working collaboratively in a **data engineering** environment!  
+
+📌 **Stay tuned for updates!** 💡  
+
+Alternatively, our colab notebook can be accessed as well for the full code :
+https://colab.research.google.com/drive/18AbP93CX6xS9SKskwKpeVPQ6Q68nCzpC?usp=sharing
